@@ -182,25 +182,31 @@ https://jorge-5733.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/s
 https://jorge-5733.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/doctor_house_original1
 
 #EXTINF:-62,Axn
-https://jorge-5733.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/anx215
+https://live.telelatinohd.com:8080/MTg5LjIxNi4xNjQuMjI=/78_.m3u8?token=-1Mhn7uC_-nh4qT5rTSJzQ&expires=1665088979
 
 #EXTINF:-63,Anime
 https://jorge-5733.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/onoanimela
 
 #EXTINF:-63,Distrito Comedia
-https://live.telelatinohd.com:8080/MTg5LjIxNi4xNjYuMTUw/47_.m3u8?token=YLoEeQneWQb-JcMZb4Or4A&expires=1665004701
+https://live.telelatinohd.com:8080/MTg5LjIxNi4xNjQuMjI=/47_.m3u8?token=Pid8unkzWyoDVEyYEkXZ0g&expires=1665088768
 
 #EXTINF:-64,Cine de Terror
-https://live.telelatinohd.com:8080/MTg5LjIxNi4xNjYuMTUw/196_.m3u8?token=duMHblKcpy1tIgBN6RredA&expires=1665004790
+https://live.telelatinohd.com:8080/MTg5LjIxNi4xNjQuMjI=/196_.m3u8?token=XH5UciBluJaLIF1_6x0ANQ&expires=1665088730
 
 #EXTINF:-65,Comedy Central
-https://live.telelatinohd.com:8080/MTg5LjIxNi4xNjYuMTUw/91_.m3u8?token=uNb3_N-ZzMJV2zWUat1nIg&expires=1665004833
+https://live.telelatinohd.com:8080/MTg5LjIxNi4xNjQuMjI=/91_.m3u8?token=LH1ukFZYXqu96d6hQU5UJg&expires=1665088806
 
 #EXTINF:-65,Nick Jr
-https://live.telelatinohd.com:8080/MTg5LjIxNi4xNjYuMTUw/112_.m3u8?token=jI_MogES88SvpR6fUpAOow&expires=1665004873
+https://live.telelatinohd.com:8080/MTg5LjIxNi4xNjQuMjI=/112_.m3u8?token=7Un0QNnQcDY6OnGRBAyJvA&expires=1665088834
 
 #EXTINF:-65,Everything
-https://live.telelatinohd.com:8080/MTg5LjIxNi4xNjYuMTUw/103_.m3u8?token=KZ1mEw9QVZikdy2tDn6jug&expires=1665004902
+https://live.telelatinohd.com:8080/MTg5LjIxNi4xNjQuMjI=/103_.m3u8?token=8AQpGTWqYxTvuNWgyG_aCg&expires=1665088858
 
 #EXTINF:-65,Golden
-https://live.telelatinohd.com:8080/MTg5LjIxNi4xNjYuMTUw/75_.m3u8?token=FDVEQeQXZX7DHB8Hyo7NSw&expires=1665004935
+https://live.telelatinohd.com:8080/MTg5LjIxNi4xNjQuMjI=/74_.m3u8?token=IDU1dJNcVjZAZl9XtxYbSg&expires=1665088884
+
+#EXTINF:-66,Cartoon Network
+https://live.telelatinohd.com:8080/MTg5LjIxNi4xNjQuMjI=/114_.m3u8?token=qUpOlZ_BeA7CPtfqAsFS8g&expires=1665088923
+
+#EXTINF:-67,De Pelicula
+https://live.telelatinohd.com:8080/MTg5LjIxNi4xNjQuMjI=/85_.m3u8?token=wtFtd95Ix-OcCxB5KZZddg&expires=1665089021
