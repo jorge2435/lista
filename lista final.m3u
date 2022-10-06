@@ -182,7 +182,7 @@ https://jorge-5733.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/s
 https://jorge-5733.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/doctor_house_original1
 
 #EXTINF:-62,Axn
-https://live.telelatinohd.com:8080/MTg5LjIxNi4xNjQuMjI=/78_.m3u8?token=-1Mhn7uC_-nh4qT5rTSJzQ&expires=1665088979
+https://jorge-5733.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/anx215
 
 #EXTINF:-63,Anime
 https://jorge-5733.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/onoanimela
@@ -209,4 +209,4 @@ https://live.telelatinohd.com:8080/MTg5LjIxNi4xNjQuMjI=/74_.m3u8?token=IDU1dJNcV
 https://live.telelatinohd.com:8080/MTg5LjIxNi4xNjQuMjI=/114_.m3u8?token=qUpOlZ_BeA7CPtfqAsFS8g&expires=1665088923
 
 #EXTINF:-67,De Pelicula
-https://live.telelatinohd.com:8080/MTg5LjIxNi4xNjQuMjI=/85_.m3u8?token=wtFtd95Ix-OcCxB5KZZddg&expires=1665089021
+https://live.telelatinohd.com:8080/MTg5LjIxNi4xNjQuMjI=/85_.m3u8?token=dnPpO3Bvqd9vZspuC79BDw&expires=1665089924
