@@ -1,0 +1,206 @@
+#EXTINF:-1,Discovery Channel
+https://jorge-5733.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/dt_yy83
+
+#EXTINF:-2,Natgeo
+https://jorge-5733.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/rr_955rrr
+
+#EXTINF:-3,History Channel
+https://jorge-5733.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/vdt_51tt
+
+#EXTINF:-4,Investigation Discovery
+https://jorge-5733.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/ivd_19f
+
+#EXTINF:-5,Discovery Home and Health
+https://jorge-5733.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/aw_tt29
+
+#EXTINF:-6,Space
+https://jorge-5733.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/cb_x85ll
+
+#EXTINF:-7,Cinemax
+https://jorge-5733.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/cc_x2t3x
+
+#EXTINF:-8,Cartoon Network
+https://jorge-5733.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/113kkctoon
+
+#EXTINF:-9,Disney Channel
+https://jorge-5733.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/dk_0150
+
+#EXTINF:-10,Discovery Kids
+https://jorge-5733.herokuapp.com/iptv-query?streaming-ip=https://ok.ru/live/4127528066603
+
+#EXTINF:-11,TNT Series
+https://jorge-5733.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/tt334qal
+
+#EXTINF:-12,Fox 
+https://jorge-5733.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/vkkurt29x
+
+#EXTINF:-13,Nick
+https://jorge-5733.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/teen023
+
+#EXTINF:-14,Fox Premium Action
+https://jorge-5733.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/f5cc0190
+
+#EXTINF:-15,Tlnovelas
+https://jorge-5733.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/txn_859t
+
+#EXTINF:-16,Telemundo
+https://jorge-5733.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/tll_04tlt
+
+#EXTINF:-17,Universal Channel
+https://jorge-5733.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/uvch022
+
+#EXTINF:-18,Malcom 24 Horas
+https://jorge-5733.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/malcolmtv_02
+
+#EXTINF:-19,Los Simpson 24 Horas
+https://jorge-5733.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/fileld019
+
+#EXTINF:-20,Chavo del 8  24 Horas
+https://jorge-5733.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/chavo_del_8_ocho_1
+
+#EXTINF:-21,tv Azteca 7
+https://jorge-5733.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/atc_124x
+
+#EXTINF:-22,Padre de familia  24 Horas
+https://jorge-5733.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/padre_de_familia_original
+
+#EXTINF:-24,Dragon ball  24 Horas
+https://jorge-5733.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/drakeplaydz
+
+#EXTINF:-25,HBO
+https://jorge-5733.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/bfex011
+
+#EXTINF:-25,TTV
+https://servilive.com:3531/live/tumpistvlive.m3u8
+
+#EXTINF:-26,Teleritmo
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+
+#EXTINF:-27,TopCine
+https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
+
+#EXTINF:-28,the walking dead
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e82bb378601b80007b4bd78&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=925&terminate=false&userId=
+
+#EXTINF:-29,Canal 4
+http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
+
+#EXTINF:-30,Estrella TV
+https://estrellatv-plex.amagi.tv/playlist.m3u8
+
+#EXTINF:-31,GDM TV
+https://ss2.domint.net:3200/gdm_str/gdmtv/playlist.m3u8
+
+#EXTINF:-32,Latino Kids
+https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
+
+#EXTINF:-33,Mega TV
+https://tv.portalexpress.es:3399/hybrid/play.m3u8
+
+#EXTINF:-34,BH TV
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+
+#EXTINF:-35,WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+
+#EXTINF:-36,Death Note
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/626c2ed933a2890007e91422/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-37,Mentirosos
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/625461ef01f27a0007976ad1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-38,Bob Esponja 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-39,MTV Short
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61a52615cbef2500072876e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-40,Baby Shart TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619d5e6a093e7c0007489211/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-41,Mi Obsecion Favorita
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6109ab25b84d6a0007504886/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-42,Casador de Homicidas
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6109a9f5531b840007a4a187/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-43,El Encantador de Perros
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61099f2b40d0640007fc5aa2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-44,south park
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-45,Cine Clasico
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609059dc63be6e0007b4eca6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-46,Anime super heroes
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079be62f9f8d6000783c8a4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-47,Paramount
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600728952b1776000776526d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-48,Standup
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffcc21a432945000762d06b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-49,MTV Series
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fab088b3279760007d4e4fd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-50,Lucha Libre AAA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99a772c54853000797bf18/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-51,El Reino Infantil
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d3d06fb60d8000781fce8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-52,Casas de Empeños
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f23102d5e239d00074b092a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-53,Naruto
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-54,Fail Armi
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebaccf1734aaf0007142c86/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-55,TV Peleas
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e98b0447665f200078caded/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-56,Estrellas en accion
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e972a21ad709d00074195ba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-57,Animal Planet
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-58,TNT
+https://jorge-5733.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/knt_16kll
+
+#EXTINF:-59,Naruto 2
+https://jorge-5733.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/naruto24hl
+
+#EXTINF:-60,Solo Animes
+https://jorge-5733.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/somosanimelive
+
+#EXTINF:-61,Doctor House
+https://jorge-5733.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/doctor_house_original1
+
+#EXTINF:-62,Axn
+https://jorge-5733.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/anx215
+
+#EXTINF:-63,Anime
+https://jorge-5733.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/onoanimela
+
+#EXTINF:-63,Distrito Comedia
+https://live.telelatinohd.com:8080/MTg5LjIxNi4xNjYuMTUw/47_.m3u8?token=YLoEeQneWQb-JcMZb4Or4A&expires=1665004701
+
+#EXTINF:-64,Cine de Terror
+https://live.telelatinohd.com:8080/MTg5LjIxNi4xNjYuMTUw/196_.m3u8?token=duMHblKcpy1tIgBN6RredA&expires=1665004790
+
+#EXTINF:-65,Comedy Central
+https://live.telelatinohd.com:8080/MTg5LjIxNi4xNjYuMTUw/91_.m3u8?token=uNb3_N-ZzMJV2zWUat1nIg&expires=1665004833
+
+#EXTINF:-65,Nick Jr
+https://live.telelatinohd.com:8080/MTg5LjIxNi4xNjYuMTUw/112_.m3u8?token=jI_MogES88SvpR6fUpAOow&expires=1665004873
+
+#EXTINF:-65,Everything
+https://live.telelatinohd.com:8080/MTg5LjIxNi4xNjYuMTUw/103_.m3u8?token=KZ1mEw9QVZikdy2tDn6jug&expires=1665004902
+
+#EXTINF:-65,Golden
+https://live.telelatinohd.com:8080/MTg5LjIxNi4xNjYuMTUw/75_.m3u8?token=FDVEQeQXZX7DHB8Hyo7NSw&expires=1665004935
